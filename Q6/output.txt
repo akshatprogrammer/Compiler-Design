@@ -1,0 +1,4 @@
+Space = 9
+Tabs = 5
+Lines = 7
+Characters = 35

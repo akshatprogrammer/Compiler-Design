@@ -1,0 +1,7 @@
+This is test	input
+to check 			
+count tabs	
+
+
+
+    Bye!
